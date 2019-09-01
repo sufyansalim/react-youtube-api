@@ -13,7 +13,7 @@ $ git clone git@github.com:sufyansalim/react-youtube-api.git
 Next, load all the dependencies  
 
 ```
-$ cd react-github-api
+$ cd react-youtube-api
 $ npm install
 ``` 
 Finally, run the node server with
