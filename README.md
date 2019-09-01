@@ -10,11 +10,6 @@ First, clone the repo
 ```
 $ git clone git@github.com:sufyansalim/react-youtube-api.git
 ```
-Optional : If you want to contribute. Add, remote origin.
-
-```
-$ git remote add origin https://github.com/sufyansalim/react-youtube-api.git
-```
 Next, load all the dependencies  
 
 ```
