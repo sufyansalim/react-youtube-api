@@ -1,3 +1,32 @@
+## React + Semantic UI
+
+__A React youtube replica, where user can search and watch youtube videos.__
+
+![App gif](youtube.gif)
+
+### Getting Started
+
+First, clone the repo
+```
+$ git clone git@github.com:sufyansalim/react-youtube-api.git
+```
+Optional : If you want to contribute. Add, remote origin.
+
+```
+$ git remote add origin https://github.com/sufyansalim/react-youtube-api.git
+```
+Next, load all the dependencies  
+
+```
+$ cd react-github-api
+$ npm install
+``` 
+Finally, run the node server with
+
+```
+$ npm start
+```
+ ***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
